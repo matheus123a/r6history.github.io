@@ -412,6 +412,11 @@ h6, .h6 {
   font-weight: 300;
   line-height: 1.2;
 }
+.display-5{
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
 
 hr {
   margin-top: 1rem;
@@ -6606,7 +6611,7 @@ a.close.disabled {
   padding-top: 20px;
   padding-bottom: 20px;
   color: #fff;
-  text-shadow: 2px 2px 2px #000000;
+  text-shadow: 2px 2px 2px #fff;
   text-align: center;
 }
 
